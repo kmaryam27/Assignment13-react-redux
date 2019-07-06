@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Assignment13-react-redux/static/js/main.a7dbe1a8.chunk.js",
+    "main.js.map": "/Assignment13-react-redux/static/js/main.a7dbe1a8.chunk.js.map",
+    "runtime~main.js": "/Assignment13-react-redux/static/js/runtime~main.54e05961.js",
+    "runtime~main.js.map": "/Assignment13-react-redux/static/js/runtime~main.54e05961.js.map",
+    "static/js/2.db500839.chunk.js": "/Assignment13-react-redux/static/js/2.db500839.chunk.js",
+    "static/js/2.db500839.chunk.js.map": "/Assignment13-react-redux/static/js/2.db500839.chunk.js.map",
+    "index.html": "/Assignment13-react-redux/index.html",
+    "precache-manifest.c86e384c7a6cfcb0761797761a659afc.js": "/Assignment13-react-redux/precache-manifest.c86e384c7a6cfcb0761797761a659afc.js",
+    "service-worker.js": "/Assignment13-react-redux/service-worker.js"
+  }
+}
